@@ -494,6 +494,8 @@ li:last-child {
 .left-column {
   background-color: #f4f4f4;
   border-top-right-radius: 20px;
+    padding: 20px;
+
 }
 
 .right-column {
